@@ -1,0 +1,259 @@
+.thanhtoan{
+    position: absolute;
+	/* right:0px; */
+	top: 120px;
+	font-family: 'iCiel Koni';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 100px;
+	color: #FFFFFF;
+text-align: center;
+  border-radius: 0px;
+  left:600px;
+}
+.vien{
+    border-radius: 15px;
+    box-shadow: 0px 4px 35px rgb(255, 102, 102) ;
+}
+.chu{
+    width: 194px;
+height: 30px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+
+color: #23221F;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.tt{
+    position: absolute;
+    top: 60px;
+    left:90px;
+
+}
+.slv{
+    position: absolute;
+    top: 60px;
+    left:330px;
+}
+.ngay{
+    position: absolute;
+    top: 60px;
+    left:530px;
+}
+.thongtin{
+    position: absolute;
+    top: 130px;
+    left:90px;
+
+}
+.sdt1{
+    position: absolute;
+    top: 200px;
+    left:90px;
+
+}
+.emailtt{
+    position: absolute;
+    top: 265px;
+    left:90px;
+
+}
+.sothe{
+    position: absolute;
+    top: 60px;
+    left:30px;
+
+}
+.hvtct{
+    position: absolute;
+    top: 130px;
+    left:30px;
+
+}
+.nhh{
+    position: absolute;
+    top: 200px;
+    left:30px;
+
+}
+.cvv{
+    position: absolute;
+    top: 265px;
+    left:30px;
+
+}
+.vien1{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:90px;
+    left: 70px;
+    width:180px;
+    height:30px;
+}
+.vien2{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:90px;
+    left:330px;
+    width:90px;
+    height:30px;
+}
+.vien3{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:90px;
+    left:530px;
+    width:180px;
+    height:30px;
+}
+.vien4{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:165px;
+    left:70px;
+    width:350px;
+    height:30px;
+}
+.vien5{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:230px;
+    left:70px;
+    width:350px;
+    height:30px;
+}
+.vien6{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:300px;
+    left:70px;
+    width:350px;
+    height:30px;
+}
+.vien7{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:90px;
+    left: 30px;
+    width:280px;
+    height:30px;
+}
+.vien8{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:165px;
+    left:30px;
+    width:280px;
+    height:30px;
+}
+.vien9{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:230px;
+    left:30px;
+    width:190px;
+    height:30px;
+}
+.vien10{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+    border-radius: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    top:300px;
+    left:30px;
+    width:100px;
+    height:30px;
+}
+.logott{
+    position: absolute;
+	height: 410px;
+  width: 240px;
+	top: 280px;
+  left: 0px;
+  border-radius: 0px;
+}
+.vett{
+    position: absolute;
+    left:25px;
+    font-family: 'iCiel Koni';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 19px;
+    line-height: 41px;
+    color: #FFFFFF;
+}
+
+.nutvett{
+    border-radius: 20px;
+}
+.nuttt{
+    position: absolute;
+    left: 90px;
+    top: 360px;
+    width:160px;
+  }
+  .lichtt{
+    position: absolute;
+    top: 230px;
+    left:260px;
+    width:40px;
+    height:35px;
+  }
+
+
