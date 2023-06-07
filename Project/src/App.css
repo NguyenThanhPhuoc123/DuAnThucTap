@@ -1,0 +1,547 @@
+.App {
+  /* text-align: center; */
+ 
+}
+.ve{
+  position: absolute;
+left:25px;
+font-family: 'iCiel Koni';
+font-style: normal;
+font-weight: 900;
+font-size: 28px;
+line-height: 41px;
+color: #FFFFFF;
+}
+.nutve{
+  border-radius: 20px;
+}
+.navbar{
+position: absolute;
+width: 1924.5px;
+height: 107.82px;
+left: 0px;
+top: 0px;
+border-bottom-left-radius: 100px;
+border-bottom-right-radius: 100px;
+background: #ED7200;
+box-shadow: 0px 4px 35px rgba(162, 58, 0, 0.75);
+}
+.logosen{
+height: 120px;
+width: 161px;
+left: 200px;
+top: 157px;
+border-radius: 0px;
+position: absolute;
+left: 10.42%;
+right: 80.16%;
+top: 18%;
+bottom: 72.64%;
+}
+.chu1{
+	position: absolute;
+	width: 322px;
+	height: 100px;
+	left: 325px;
+	top: 100px;
+	font-family: 'iCiel Koni';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 100px;
+	color: #FFFFFF;
+}
+.chu2{
+	position: absolute;
+width: 197px;
+height: 100px;
+left: 325px;
+top: 170px;
+
+font-family: 'iCiel Koni';
+font-style: normal;
+font-weight: 900;
+font-size: 50px;
+line-height: 100px;
+
+color: #FFFFFF;
+}
+.logo1{
+  position: absolute;
+	left: 53.59%;
+	right: 40.31%;
+	top:110px;
+	bottom: 75.63%;
+	height: 120px;
+	width: 90px;
+
+}
+.logo2{
+	position: absolute;
+left: 42.03%;
+right: 50.47%;
+top: 20%;
+bottom: 64.86%;
+height: 180px;
+width: 120px;
+
+border-radius: 0px;
+
+
+}
+.logo3{
+	position: absolute;
+	width: 530px;
+	height: 300px;
+	left: 865px;
+	top: 55px;
+
+}
+.logo4{
+	position: absolute;
+	height: 310px;
+  width: 188px;
+	top: 400px;
+  left: 90px;
+  border-radius: 0px;
+
+
+}
+.logotrai{
+  position: absolute;
+  height: 180px;
+width: 120px;
+top:220px;
+left:20px;
+}
+.logophai{
+  position: absolute;
+  height: 200px;
+width: 120px;
+top:290px;
+right:0px;
+}
+.navbar-nav2{
+    width: 70px;
+    height: 22px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    white-space: nowrap;
+	margin-top: 28px;
+    margin-right: 270px;
+    margin-left:100px;
+	text-decoration: none;
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: #fff;
+  border: 1px solid #ffffff;
+
+
+  cursor: pointer;
+  background-color:#ED7200;
+  
+  }
+
+.App-logo {
+}
+
+.img-card{
+	object-fit: cover; 
+	max-width: 600px;
+	max-height: 300px;
+}
+
+
+
+.App-header {
+  background-color: #ffffcc;
+  min-height: 50vh;
+  /* display: flex; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  
+}
+.nav-link1{
+	width: 70px;
+  height: 22px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 50px;
+  white-space: nowrap;
+  text-decoration: none;
+  border-bottom: none;
+  }
+
+  .nav-link2{
+	width: 70px;
+  height: 22px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 50px;
+  white-space: nowrap;
+  text-decoration: none;
+  border-bottom: none;
+  
+  }
+  .nav-link2:active {
+    border: '2px';
+    color: #FFFFFF;
+    /* borderRadius: 100px, */
+    padding:'15px';
+  }
+  .nav-link3{
+	width: 70px;
+  height: 22px;
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 50px;
+  white-space: nowrap;
+  text-decoration: none;
+  border-bottom: none;
+  }
+
+.link{
+	justify-content: center;
+}
+.App-link {
+  color: #04c1f5;
+  
+}
+.example{
+  border-radius: 10px 10px 10px 10px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  padding: 10px 10px 10px 10px;
+  width: 100%;
+}
+.text{
+  position: absolute;
+  left:20px;
+  /* 20 medium */
+  
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 20px;
+  line-height: 20px;
+  /* or 150% */
+  
+  
+  /* Text */
+  
+  color: #23221F;
+  
+  opacity: 0.7;
+}
+.start{
+  position: absolute;
+  left: 120px;
+	width: 703px;
+  bottom:180px;
+height: 36px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: #23221F;
+opacity: 0.8;
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+.vien1{
+  border-radius: 15px;
+  box-shadow: 0px 4px 35px rgb(255, 102, 102) ;
+  
+}
+.vien2{
+  border-radius: 15px;
+  box-shadow: 0px 4px 35px rgb(255, 102, 102) ;
+  
+}
+.goi{
+  position: absolute;
+width: 250px;
+height: 36px;
+left: 15px;
+top: 60px;
+background: #FFFFFF;
+box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+border-radius: 16px;
+
+}
+.giave{
+  position: absolute;
+  width: 80px;
+  height: 36px;
+  left: 15px;
+  top: 105px;
+  background: #FFFFFF;
+  box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+  border-radius: 16px;
+}
+.date{
+  position: absolute;
+  width: 163px;
+  height: 36px;
+  left: 100px;
+  top: 105px;
+  background: #FFFFFF;
+  box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+  border-radius: 16px;
+}
+.hovaten{
+  position: absolute;
+  width: 320px;
+  height: 36px;
+  left: 15px;
+  top: 150px;
+  background: #FFFFFF;
+  box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+  border-radius: 16px;
+}
+.sdt{
+  position: absolute;
+  width: 320px;
+  height: 36px;
+  left: 15px;
+  top: 195px;
+  background: #FFFFFF;
+  box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+  border-radius: 16px;
+}
+.email1{
+  position: absolute;
+  width: 320px;
+  height: 36px;
+  left: 15px;
+  top: 240px;
+  background: #FFFFFF;
+  box-shadow: inset -1px 3px 3px rgba(179, 91, 11, 0.5);
+  border-radius: 16px;
+}
+.nuthome{
+  position: absolute;
+  left: 90px;
+  top: 290px;
+  width:160px;
+}
+
+/* --------------TRANG SỰ KIỆN ------------- */
+.card{
+  left:200px;
+  margin:20px;
+}
+
+.sukien{
+	position: absolute;
+	/* right:0px; */
+	top: 120px;
+	font-family: 'iCiel Koni';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 100px;
+	color: #FFFFFF;
+text-align: center;
+  border-radius: 0px;
+  
+
+}
+.card{
+  top: 250px;
+  padding: 10px;
+  margin:10px;
+}
+.chusk{
+  
+  width: 138px;
+height: 37px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+display: flex;
+align-items: center;
+color: #23221F;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.sk1{
+	position: absolute;
+	right:600px;
+	top: 120px;
+	font-family: 'iCiel Koni';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 100px;
+	color: #FFFFFF;
+text-align: center;
+  border-radius: 0px;
+  
+
+}
+.gia{
+  color: #FA7D09;
+}
+.chonicon{
+  position: absolute;
+  top: 60px;
+  left:280px;
+  width:40px;
+  height:35px;
+
+}
+.lichicon{
+  position: absolute;
+  top: 105px;
+  left:280px;
+  width:40px;
+  height:35px;
+}
+/* -------XEM CHI TIẾT TRANG SỰ KIỆN---------- */
+.anhsk1{
+  position: absolute;
+  height: 250px;
+  width: 300px;
+  left: 40px;
+  top: 60px;
+  border-radius: 10px;
+
+}
+.lich{
+  position: absolute;
+  width: 206px;
+height: 16px;
+bottom: 140px;
+left: 40px;
+
+}
+.textsk1{
+  position: absolute;
+left: 33.68%;
+right: 47.37%;
+top: 11.62%;
+bottom: 15.14%;
+
+/* 18 medium */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 23px;
+margin:5px;
+/* or 150% */
+
+display: flex;
+align-items: center;
+text-align: justify;
+}
+.textsk2{
+  position: absolute;
+left: 55.46%;
+right: 25.59%;
+top: 49.69%;
+bottom: 14.53%;
+
+/* 18 medium */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 23px;
+/* or 144% */
+
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #000000;
+}
+.textsk3{
+  position: absolute;
+left: 77.24%;
+right: 3.82%;
+top: 12.84%;
+bottom: 51.38%;
+
+/* 18 medium */
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 23px;
+/* or 144% */
+
+display: flex;
+align-items: center;
+text-align: justify;
+
+color: #000000;
+
+}
+.anhsk1-text{
+  position: absolute;
+width: 220px;
+height: 158px;
+left: 640px;
+right: 47.37%;
+top: 11.62%;
+bottom: 15.14%;
+}
+.anhsk1-text1{
+  position: absolute;
+width: 220px;
+height: 158px;
+left: 890px;
+right: 47.37%;
+top: 255px;
+}
+
+
+
