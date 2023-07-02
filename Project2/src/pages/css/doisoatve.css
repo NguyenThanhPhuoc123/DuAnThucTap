@@ -1,0 +1,142 @@
+.AppGlass2{
+    display: grid;
+    position: absolute;
+    top: 90px;
+    left:280px;
+    height:85%;
+    width: 50%;
+    border-radius:1rem;
+    background-color: rgb(255, 255, 255);
+
+}
+.khung2{
+    display: grid;
+    position: absolute;
+    top: 4px;
+    left:790px;
+    height:627px;
+    width: 50%;
+    border-radius:1rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.pagebutton{
+    background-color: white;
+    color: black;
+    border: 2px solid white;
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transform: translateX(330px) translateY(10px);
+
+  }
+  
+  .pagebutton.active {
+    background-color: rgba(255, 184, 0, 1);
+    color: white;
+  }
+  .search-locve{
+    position: relative;
+    background-color:rgba(237, 237, 237, 1);
+    width:300px;
+    height:28px;
+    border-radius:7px;
+    left:10px;
+  }
+  .text-tinhtrang{
+    position: absolute;
+    top:100px;
+    left:20px;
+    
+  }
+  .checkboxes{
+    position: absolute;
+    top:100px;
+    left:170px;
+  }
+  .text-loaive{
+    position: absolute;
+    left:20px;
+    top:220px;
+  }
+  .vecong{
+    position: absolute;
+    top:220px;
+    left:170px;
+  }
+  .loc-ve-button{
+    position: absolute;
+    width:100px;
+    height:40px;
+   top:400px;
+   left:150px;
+   border: 2px solid  rgba(255, 153, 60, 1);
+    border-radius:5px;
+    background-color:white;
+    color:  rgba(255, 153, 60, 1); 
+    
+  }
+  .loc-ve-button:active {
+    background-color:  rgba(255, 153, 60, 1);
+    border-color: #000000;
+    color: #000000;
+  }
+  .option{
+    position: absolute;
+    left:20px;
+    top:50px;
+    height:30px;
+    width: 250px;
+    border-radius:7px;
+    background-color:rgba(237, 237, 237, 1);
+  }
+  .text-tungay{
+    position: absolute;
+    left:20px;
+    top:260px;
+  }
+  .text-denngay{
+    position: absolute;
+    left:20px;
+    top:300px;
+  }
+  .text-input{
+    position: absolute;
+    left:20px;
+    top:300px;
+    background-color:rgba(237, 237, 237, 1);
+    width:170px;
+    height:15px;
+    border-radius:7px;
+    top:260px;
+    left:100px;
+  }
+  .iconlich1{
+    transform: translateX(250px) translateY(100px);
+  }
+  .iconlich2{
+    transform: translateX(250px) translateY(-15px);
+  }
+  .text-inputdn{
+    position: absolute;
+    left:20px;
+    top:300px;
+    background-color:rgba(237, 237, 237, 1);
+    width:170px;
+    height:15px;
+    border-radius:7px;
+    top:300px;
+    left:100px;
+  }
+  .chotdoisoat-button{
+    position: absolute;
+    width:150px;
+    height:40px;
+   top:45px;
+   left:570px;
+   border: 2px solid  rgba(255, 153, 60, 1);
+    border-radius:5px;
+    background-color:rgba(255, 153, 60, 1);
+    color:  rgb(255, 255, 255); 
+  }
+ 
